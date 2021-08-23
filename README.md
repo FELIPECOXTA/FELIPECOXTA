@@ -17,7 +17,7 @@
 
 🔗 Get in touch with me through the attached links:  
 
-<a href="https://www.linkedin.com/felipecoxta">
+<a href="https://www.linkedin.com/felipecoxta/">
    <img alt="Felipe' LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/felipecoxta">
