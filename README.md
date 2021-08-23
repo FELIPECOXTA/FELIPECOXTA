@@ -1,13 +1,28 @@
-## Olá! Bem vindo ao meu perfil! Como você está? 👋
-![Commits](https://github-readme-stats.vercel.app/api?username=FELIPECOXTA)
+## 👋 Olá! Bem Vindo ao meu perfil! Como você está? 
 
-#### Meu nome é Felipe. Eu sou do Brasil  🟩🟨🟦
+#### Meu nome é Felipe Costa
 
-- 🚀 Cursando o Bootcamp da Generation Brasil de Developer full stack Java
-- 💻 Criando várias coisas com o Eclipse
+- 🚀 Eu sou um Desenvolvedor Java Full Stack em treinamento
+- 💻 Trabalhando duro para alcançar meus objetivos
 - ✨ Aprendendo e evoluindo sempre
 
-[![Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecoxta/)](https://www.linkedin.com/in/felipecoxta/) [![Linkedin Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&labelColor=violet&logo=instagram&logoColor=white&link=https://instagram.com/felipecoxta)](https://instagram.com/felipecoxta/) [![Instagram Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&labelColor=green&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511944992882&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub!)](https://api.whatsapp.com/send?phone=5511944992882&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub!)
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusTabarelli&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTabarelli&layout=compact&theme=gotham&custom_title=Statistics)  
+#### Languages and tools:
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+
+🔗 Get in touch with me through the attached links:  
+
+<a href="https://www.linkedin.com/felipecoxta">
+   <img alt="Felipe' LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/felipecoxta">
+   <img alt="Felipe' Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="sfelipe66@gmail.com">
+   <img alt="Felipe' Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
